@@ -1,0 +1,39 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "dateAdd": "2019-08-14 17:50:13",
+      "dateUpdate": "2019-08-14 17:50:24",
+      "id": 45824,
+      "isUse": true,
+      "level": 1,
+      "name": "人气Top",
+      "paixu": 0,
+      "pid": 0,
+      "userId": 18046
+    },
+    {
+      "dateAdd": "2019-08-14 17:50:13",
+      "dateUpdate": "2019-08-14 17:50:24",
+      "id": 45824,
+      "isUse": true,
+      "level": 1,
+      "name": "人气Top",
+      "paixu": 0,
+      "pid": 0,
+      "userId": 18046
+    },
+    {
+      "dateAdd": "2019-08-14 17:50:13",
+      "dateUpdate": "2019-08-14 17:50:24",
+      "id": 45824,
+      "isUse": true,
+      "level": 1,
+      "name": "人气Top",
+      "paixu": 0,
+      "pid": 0,
+      "userId": 18046
+    }
+  ],
+  "msg": "success"
+}
